@@ -59,7 +59,7 @@ Thanks to my Angel.<br>
 &nbsp;&nbsp;&nbsp;Choosing me and giving me the chance, in her best time.<br>
 &nbsp;&nbsp;&nbsp;“Hold you in my palm as my word.” <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To stunning and kindness Annie.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To stunning and tender Annie.<br>
 </font>
 
 # ***End for right now...***

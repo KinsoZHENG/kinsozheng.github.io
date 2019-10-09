@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="857bd76c-af10-4b10-a1c8-d2d5ac02b7bb" name="Default Changelist" comment="" />
+    <list default="true" id="857bd76c-af10-4b10-a1c8-d2d5ac02b7bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2019-10-09-The First Blog-20192.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-09-The First Blog-20192.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-09-The First Blog-2019.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <first_editor>
+                <caret selection-end-line="11" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -31,8 +33,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-09-The First Blog-20192.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -56,8 +58,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/tags.html" />
-        <option value="$PROJECT_DIR$/_posts/2019-10-09-The First Blog-20192.md" />
         <option value="$PROJECT_DIR$/_posts/2019-10-09-The First Blog-2019.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-10-09-The First Blog-20192.md" />
       </list>
     </option>
   </component>
@@ -128,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570625623655</updated>
-      <workItem from="1570625626869" duration="11909000" />
+      <workItem from="1570625626869" duration="12217000" />
     </task>
     <task id="LOCAL-00001" summary="Update 2019.10.09">
       <created>1570626303092</created>
@@ -326,11 +328,32 @@
       <option name="project" value="LOCAL" />
       <updated>1570643443777</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Update 2019.10.09">
+      <created>1570643664354</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1570643664354</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Update 2019.10.09">
+      <created>1570643727110</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1570643727110</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Update 2019.10.09">
+      <created>1570643768452</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1570643768452</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11909000" />
+    <option name="totallyTimeSpent" value="12217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="23" width="1635" height="979" extended-state="0" />
@@ -428,8 +451,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-09-The First Blog-2019.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <first_editor>
+            <caret selection-end-line="11" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -438,8 +461,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-09-The First Blog-20192.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>

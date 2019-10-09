@@ -12,6 +12,17 @@ tags:
 ---
 >Today is 2019-10-09. <br>
  Here is KinsoZHENG's First Blog. <br>
+ 
+> Before the Foreword
+ # *Letter to Princess.Annie*
+ 
+ <font face='Blackadder ITC'>
+ Appreciate my Angel.<br>
+ &nbsp;&nbsp;&nbsp;Choosing me and giving me the chance, in her best time.<br>
+ &nbsp;&nbsp;&nbsp;“Hold you in my palm as my word.” <br>
+ <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To stunning and tender Annie.<br>
+ </font>
 
 # 前言
 
@@ -52,15 +63,7 @@ Personal Tags:
 
 该博客基于[**Markdown**](https://daringfireball.net/projects/markdown/)进行撰写。感谢[BY(柏荧)](https://qiubaiying.github.io/)所提供的技术教程。
 
-# *Letter to Princess.Annie*
 
-<font face='Blackadder ITC'>
-Appreciate my Angel.<br>
-&nbsp;&nbsp;&nbsp;Choosing me and giving me the chance, in her best time.<br>
-&nbsp;&nbsp;&nbsp;“Hold you in my palm as my word.” <br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To stunning and tender Annie.<br>
-</font>
 
 # ***End for right now...***
 

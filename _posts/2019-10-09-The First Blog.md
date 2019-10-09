@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      KinsoZHENG 的第一篇个人博客
-subtitle:   "\"Hello World, Hello Github"\"
+subtitle:   立个Flag，好好写博客
 date:       2019-10-09
 author:     KinsoZHENG
 header-img: img/post_background.jpg

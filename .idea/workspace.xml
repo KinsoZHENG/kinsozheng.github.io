@@ -21,10 +21,19 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-09-The First Blog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="411">
-                <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+              <first_editor relative-caret-position="365">
+                <caret line="61" column="142" selection-start-line="61" selection-start-column="142" selection-end-line="61" selection-end-column="142" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="107" column="7" lean-forward="true" selection-start-line="107" selection-start-column="7" selection-end-line="107" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -52,11 +61,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/tags.html" />
         <option value="$PROJECT_DIR$/_posts/2019-10-09-The First Blog-2019.md" />
         <option value="$PROJECT_DIR$/_posts/2019-10-09-The First Blog-20192.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-10-09-The First Blog.md" />
       </list>
     </option>
@@ -138,21 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570625623655</updated>
-      <workItem from="1570625626869" duration="20284000" />
-    </task>
-    <task id="LOCAL-00007" summary="Update 2019.10.09">
-      <created>1570629125381</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1570629125381</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Update 2019.10.09">
-      <created>1570629286471</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1570629286471</updated>
+      <workItem from="1570625626869" duration="20809000" />
     </task>
     <task id="LOCAL-00009" summary="Update 2019.10.09">
       <created>1570630003965</created>
@@ -483,11 +478,25 @@
       <option name="project" value="LOCAL" />
       <updated>1570651916911</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Update 2019.10.09">
+      <created>1570652405603</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1570652405603</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Update 2019.10.09">
+      <created>1570652568611</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1570652568611</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20284000" />
+    <option name="totallyTimeSpent" value="20809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="23" width="1635" height="979" extended-state="0" />
@@ -527,13 +536,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-615">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-10-26-JSON-转模型-For-YYModel.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -610,11 +612,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/codecov.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="107" column="7" lean-forward="true" selection-start-line="107" selection-start-column="7" selection-end-line="107" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-09-The First Blog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="411">
-            <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+          <first_editor relative-caret-position="365">
+            <caret line="61" column="142" selection-start-line="61" selection-start-column="142" selection-end-line="61" selection-end-column="142" />
           </first_editor>
           <second_editor />
         </state>

@@ -29,6 +29,7 @@ Personal Tags:
 - 单车骑行爱好者
 - 系统重装师???
 
+
 >一直立着要好好写Tech-Blog的Flag, 经历了从用腾讯云服务器搭建Wordpress到放弃。<br>
 (实名吐槽 Wordpress搭建的繁琐 和 服务器配置的费劲...<br>
 
@@ -42,7 +43,14 @@ Personal Tags:
 - （待定...
 
 作为一个Final year的学生，近期在跟着导师做项目。<br>
-当前的课题方向是Deep learning中的Object detection 和 Instance segmentation,
-在近期会阅读的相关文献,和学习Lee FeiFei老师的CS231n。<br>
+当前的课题方向是 *Deep learning* 中的 *Object detection* 和 *Instance segmentation*,
+在近期会阅读的相关文献,和学习Lee FeiFei老师的CS231n。为了巩固知识和代码能力的发展，
+会在博客中记录在实验中所遇到的工程问题以及相对应的解决方法，和对文献学习的记录。如果有什么
+新的项目想法，在实现后也会记录在该博客。<br>
+
+
+该博客基于[**Markdown**](https://daringfireball.net/projects/markdown/)进行撰写。感谢[BY(伯荧)](https://qiubaiying.github.io/)所提供的技术教程。
+
+End for right now...
 
 

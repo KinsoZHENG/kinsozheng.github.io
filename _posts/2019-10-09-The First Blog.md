@@ -34,7 +34,15 @@ Personal Tags:
 
 # 正文
 
+
 建立这个博客的目的在于：<br>
-- 
+- 记录个人在开发中所遇到的问题，以及解决方案
+- 当作个人学习中的学习笔记
+- 当作个人日记，以及生活中的趣事分享
+- （待定...
+
+作为一个Final year的学生，近期在跟着导师做项目。<br>
+当前的课题方向是Deep learning中的Object detection 和 Instance segmentation,
+在近期会阅读的相关文献,和学习Lee FeiFei老师的CS231n。<br>
 
 

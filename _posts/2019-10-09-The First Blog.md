@@ -56,9 +56,10 @@ Personal Tags:
 
 <font face='Blackadder ITC'>
 Thanks to my Angel.<br>
-Choosing me when I mess in her best time.<br>
-“Hold you in my palm as my promise.” <br>
-            To stunning and kindness Annie.<br>
+&nbsp;&nbsp;&nbsp;Choosing me and giving me the chance, in her best time.<br>
+&nbsp;&nbsp;&nbsp;“Hold you in my palm as my word.” <br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To stunning and kindness Annie.<br>
 </font>
 
 # ***End for right now...***

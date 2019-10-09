@@ -52,6 +52,14 @@ Personal Tags:
 
 该博客基于[**Markdown**](https://daringfireball.net/projects/markdown/)进行撰写。感谢[BY(柏荧)](https://qiubaiying.github.io/)所提供的技术教程。
 
+# *Letter to Princess.Annie*
+
+<font face='Blackadder ITC'>
+Thanks to my Angel.<br>
+Choosing me when I mess in her best time.<br>
+“Hold you in my palm as my promise.” <br>
+            To stunning and kindness Annie.<br>
+</font>
 
 # ***End for right now...***
 

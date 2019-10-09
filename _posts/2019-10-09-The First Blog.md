@@ -8,6 +8,7 @@ header-img: img/post_background.jpg
 catalog: true
 tags:
     - Daily Life
+    - First Blog
 ---
 >Today is 2019-10-09. <br>
  Here is KinsoZHENG's First Blog. <br>

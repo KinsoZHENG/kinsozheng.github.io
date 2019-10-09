@@ -55,7 +55,7 @@ Personal Tags:
 # *Letter to Princess.Annie*
 
 <font face='Blackadder ITC'>
-Thanks to my Angel.<br>
+Appreciate my Angel.<br>
 &nbsp;&nbsp;&nbsp;Choosing me and giving me the chance, in her best time.<br>
 &nbsp;&nbsp;&nbsp;“Hold you in my palm as my word.” <br>
 <br>

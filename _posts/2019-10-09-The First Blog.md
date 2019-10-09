@@ -49,7 +49,7 @@ Personal Tags:
 新的项目想法，在实现后也会记录在该博客。<br>
 
 
-该博客基于[**Markdown**](https://daringfireball.net/projects/markdown/)进行撰写。感谢[BY(伯荧)](https://qiubaiying.github.io/)所提供的技术教程。
+该博客基于[**Markdown**](https://daringfireball.net/projects/markdown/)进行撰写。感谢[BY(柏荧)](https://qiubaiying.github.io/)所提供的技术教程。
 
 # End for right now...
 

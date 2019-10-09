@@ -12,10 +12,10 @@ tags:
 ---
 >Today is 2019-10-09. <br>
  Here is KinsoZHENG's First Blog. <br>
- 
-> Before the Foreword
+ Before the Foreword
 
- # *Letter to Princess.Annie*
+
+# *Letter to Princess.Annie*
  
  <font face='Blackadder ITC'>
  Appreciate my Angel.<br>

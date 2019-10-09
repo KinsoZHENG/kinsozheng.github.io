@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      KinsoZHENG's First Blog on Github-page
+title:      KinsoZHENG 的第一篇个人博客
 subtitle:   "\"Hello World, Hello Github"\"
 date:       2019-10-09
 author:     KinsoZHENG

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="857bd76c-af10-4b10-a1c8-d2d5ac02b7bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-10-09-The First Blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-09-The First Blog.md" afterDir="false" />
-    </list>
+    <list default="true" id="857bd76c-af10-4b10-a1c8-d2d5ac02b7bb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,35 +15,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-10-09-The First Blog-20192.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-09-The First Blog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="417">
-                <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-10-10-iOS-手势与变形.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-213" />
               <second_editor />
             </state>
           </provider>
@@ -150,35 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570625623655</updated>
-      <workItem from="1570625626869" duration="17963000" />
-    </task>
-    <task id="LOCAL-00001" summary="Update 2019.10.09">
-      <created>1570626303092</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1570626303092</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Update 2019.10.09">
-      <created>1570628432024</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1570628432024</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Update 2019.10.09">
-      <created>1570628538175</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1570628538175</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Update 2019.10.09">
-      <created>1570628708045</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1570628708045</updated>
+      <workItem from="1570625626869" duration="18193000" />
     </task>
     <task id="LOCAL-00005" summary="Update 2019.10.09">
       <created>1570628766047</created>
@@ -488,11 +436,46 @@
       <option name="project" value="LOCAL" />
       <updated>1570648981997</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Update 2019.10.09">
+      <created>1570649821725</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1570649821725</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Update 2019.10.09">
+      <created>1570649851996</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1570649851997</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Update 2019.10.09">
+      <created>1570649950797</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1570649950797</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Update 2019.10.09">
+      <created>1570649991109</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1570649991109</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Update 2019.10.09">
+      <created>1570650033251</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1570650033251</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17963000" />
+    <option name="totallyTimeSpent" value="18193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="23" width="1635" height="979" extended-state="0" />
@@ -618,8 +601,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-09-The First Blog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="417">
-            <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>

@@ -23,7 +23,8 @@ tags:
  iOS 和 Android 系统上的运行，决定尝试使用 React Native 进行开发，以满足双平台运行的需要。<br>
  
  
-此篇 Blog 以及其后续，将会逐一记录 React Native 开发环境的配置，遇到的Bug 问题以及解决方案。<br>
+此篇 Blog 以及其后续，将会逐一记录 React Native 开发环境的配置，遇到的Bug 问题以及解决方案。包括开发工程中，
+对App开发的思路，代码展示。<br>
 
 当前开发环境:
 

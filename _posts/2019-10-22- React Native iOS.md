@@ -37,10 +37,11 @@ tags:
 
 ## 安装依赖
 
-'''shell
-brew install node<br>
+```shell
+brew install node
 brew install watchman
-'''
+```
+
 
 
 

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="857bd76c-af10-4b10-a1c8-d2d5ac02b7bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-10-22- React Native iOS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-22- React Native iOS.md" afterDir="false" />
-    </list>
+    <list default="true" id="857bd76c-af10-4b10-a1c8-d2d5ac02b7bb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-22- React Native iOS.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="640">
-                <caret line="82" column="8" lean-forward="true" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
+              <first_editor relative-caret-position="552">
+                <caret line="99" column="70" lean-forward="true" selection-start-line="99" selection-start-column="70" selection-end-line="99" selection-end-column="70" />
               </first_editor>
               <second_editor />
             </state>
@@ -132,21 +130,7 @@
       <updated>1570625623655</updated>
       <workItem from="1570625626869" duration="22460000" />
       <workItem from="1570914833497" duration="141000" />
-      <workItem from="1571776801159" duration="1870000" />
-    </task>
-    <task id="LOCAL-00018" summary="Update 2019.10.09">
-      <created>1570642442826</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1570642442826</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Update 2019.10.09">
-      <created>1570642510550</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1570642510550</updated>
+      <workItem from="1571776801159" duration="2593000" />
     </task>
     <task id="LOCAL-00020" summary="Update 2019.10.09">
       <created>1570642624449</created>
@@ -477,11 +461,25 @@
       <option name="project" value="LOCAL" />
       <updated>1571778254801</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Update 2019.10.09">
+      <created>1571778791902</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1571778791902</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Update 2019.10.09">
+      <created>1571778878841</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1571778878841</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24471000" />
+    <option name="totallyTimeSpent" value="25194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="23" width="1635" height="979" extended-state="0" />
@@ -577,8 +575,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-22- React Native iOS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="640">
-            <caret line="82" column="8" lean-forward="true" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
+          <first_editor relative-caret-position="552">
+            <caret line="99" column="70" lean-forward="true" selection-start-line="99" selection-start-column="70" selection-end-line="99" selection-end-column="70" />
           </first_editor>
           <second_editor />
         </state>

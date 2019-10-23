@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="857bd76c-af10-4b10-a1c8-d2d5ac02b7bb" name="Default Changelist" comment="" />
+    <list default="true" id="857bd76c-af10-4b10-a1c8-d2d5ac02b7bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-10-22- React Native iOS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-22- React Native iOS.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,13 +17,13 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-22- React Native iOS.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="552">
-                <caret line="99" column="70" lean-forward="true" selection-start-line="99" selection-start-column="70" selection-end-line="99" selection-end-column="70" />
+              <first_editor relative-caret-position="762">
+                <caret line="113" column="80" selection-start-line="113" selection-start-column="80" selection-end-line="113" selection-end-column="80" />
               </first_editor>
               <second_editor />
             </state>
@@ -61,35 +64,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="kinsozheng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kinsozheng.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kinsozheng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kinsozheng.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kinsozheng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kinsozheng.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kinsozheng.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kinsozheng.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -131,6 +106,8 @@
       <workItem from="1570625626869" duration="22460000" />
       <workItem from="1570914833497" duration="141000" />
       <workItem from="1571776801159" duration="2593000" />
+      <workItem from="1571788986661" duration="22000" />
+      <workItem from="1571829349605" duration="258000" />
     </task>
     <task id="LOCAL-00020" summary="Update 2019.10.09">
       <created>1570642624449</created>
@@ -479,7 +456,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25194000" />
+    <option name="totallyTimeSpent" value="25474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="23" width="1635" height="979" extended-state="0" />
@@ -575,8 +552,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-22- React Native iOS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="552">
-            <caret line="99" column="70" lean-forward="true" selection-start-line="99" selection-start-column="70" selection-end-line="99" selection-end-column="70" />
+          <first_editor relative-caret-position="762">
+            <caret line="113" column="80" selection-start-line="113" selection-start-column="80" selection-end-line="113" selection-end-column="80" />
           </first_editor>
           <second_editor />
         </state>

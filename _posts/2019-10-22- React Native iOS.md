@@ -105,7 +105,7 @@ updated 2 packages in 12.047s
 
 在运行GitHub上往年开源项目时，遇到了版本问题造成 **BUILD FAIL**<br>
 解决方案：
-在项目下的："node_modules/react-native/local-cli/runIOS/findMatchingSimulator.js" 文件中修改<br>
+在项目下的："node_modules/react-native/local-cli/runIOS/findMatchingSimulator.js"<br>
 分别将第30行和第36行修改为
 ```js
 if (!version.includes("iOS"))

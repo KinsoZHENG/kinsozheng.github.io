@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      React Native iOS 开发踩坑
-subtitle:   尝试通过 React Native 进行 iOS Android 双平台开发
+title:      Pytorch FCN 开发
+subtitle:   尝试通过 Pytorch 进行 FCN
 date:       2019-12-28
 author:     KinsoZHENG
 header-img: img/post_background.jpg

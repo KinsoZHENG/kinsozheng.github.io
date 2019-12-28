@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-22- React Native iOS.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="672">
-                <caret line="107" column="75" selection-start-line="107" selection-start-column="75" selection-end-line="107" selection-end-column="75" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -51,12 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="45" />
-    <option name="y" value="23" />
-    <option name="width" value="1635" />
-    <option name="height" value="979" />
-  </component>
+  <component name="ProjectId" id="1VdH6tiKs7x2sPK6sIqQWch2heg" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -105,6 +100,7 @@
       <workItem from="1571776801159" duration="2593000" />
       <workItem from="1571788986661" duration="22000" />
       <workItem from="1571829349605" duration="874000" />
+      <workItem from="1571830874791" duration="1000" />
     </task>
     <task id="LOCAL-00022" summary="Update 2019.10.09">
       <created>1570642819615</created>
@@ -453,10 +449,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26090000" />
+    <option name="totallyTimeSpent" value="26091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="23" width="1635" height="979" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25612053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -548,8 +545,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-22- React Native iOS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="672">
-            <caret line="107" column="75" selection-start-line="107" selection-start-column="75" selection-end-line="107" selection-end-column="75" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
